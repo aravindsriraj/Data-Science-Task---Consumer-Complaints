@@ -8,6 +8,20 @@ Text Classification on Consumer complaints dataset into following categories
 
 Dataset link - https://catalog.data.gov/dataset/consumer-complaint-database
 
+| Date received | Product | Sub-product | Issue | Sub-issue | Consumer complaint narrative | Company public response | Company | State | ZIP code | Tags | Consumer consent provided? | Submitted via | Date sent to company | Company response to consumer | Timely response? | Consumer disputed? | Complaint ID |
+| ------------- | ------- | ----------- | ----- | --------- | ---------------------------- | ----------------------- | ------- | ----- | -------- | ---- | ------------------------- | ------------- | ---------------------- | ------------------------- | ---------------- | ----------------- | ------------ |
+| 2023-08-25 | Credit reporting or other personal consumer re... | Credit reporting | Incorrect information on your report | Information belongs to someone else | NaN | NaN | EQUIFAX, INC. | FL | 33009 | NaN | NaN | Web | 2023-08-25 | Closed with explanation | Yes | NaN | 7523056 |
+| 2023-08-25 | Credit reporting or other personal consumer re... | Credit reporting | Improper use of your report | Credit inquiries on your report that you don't... | NaN | NaN | EQUIFAX, INC. | MI | 48234 | NaN | NaN | Web | 2023-08-25 | Closed with explanation | Yes | NaN | 7523057 |
+| 2023-08-23 | Credit reporting, credit repair services, or o... | Credit reporting | Problem with a credit reporting company's inve... | Their investigation did not fix an error on yo... | NaN | NaN | EQUIFAX, INC. | GA | 30034 | NaN | NaN | Web | 2023-08-23 | In progress | Yes | NaN | 7446803 |
+| 2023-08-23 | Credit reporting, credit repair services, or o... | Credit reporting | Problem with a credit reporting company's inve... | Was not notified of investigation status or re... | NaN | NaN | EQUIFAX, INC. | CO | 80249 | NaN | NaN | Web | 2023-08-23 | In progress | Yes | NaN | 7446804 |
+| 2023-08-23 | Credit reporting, credit repair services, or o... | Credit reporting | Problem with a credit reporting company's inve... | Their investigation did not fix an error on yo... | NaN | NaN | TRANSUNION INTERMEDIATE HOLDINGS, INC. | NY | XXXXX | NaN | NaN | Web | 2023-08-23 | In progress | Yes | NaN | 7442566 |
+| 2023-08-23 | Credit reporting, credit repair services, or o... | Credit reporting | Improper use of your report | Credit inquiries on your report that you don't... | NaN | NaN | EQUIFAX, INC. | CA | 95648 | NaN | Other | Web | 2023-08-23 | In progress | Yes | NaN | 7446815 |
+| 2023-08-23 | Credit reporting, credit repair services, or o... | Credit reporting | Problem with a credit reporting company's inve... | Their investigation did not fix an error on yo... | NaN | NaN | EQUIFAX, INC. | NY | XXXXX | NaN | NaN | Web | 2023-08-23 | In progress | Yes | NaN | 7446610 |
+| 2023-08-23 | Credit reporting, credit repair services, or o... | Credit reporting | Improper use of your report | Reporting company used your report improperly | NaN | NaN | Experian Information Solutions Inc. | OR | 97209 | NaN | NaN | Web | 2023-08-23 | In progress | Yes | NaN | 7442804 |
+| 2023-08-23 | Credit reporting, credit repair services, or o... | Credit reporting | Incorrect information on your report | Information belongs to someone else | NaN | NaN | Experian Information Solutions Inc. | NY | 11550 | NaN | NaN | Web | 2023-08-23 | In progress | Yes | NaN | 7442745 |
+| 2023-08-23 | Credit reporting, credit repair services, or o... | Credit reporting | Incorrect information on your report | Information belongs to someone else | NaN | NaN | Experian Information Solutions Inc. | GA | 30228 | NaN | NaN | Web | 2023-08-23 | In progress | Yes | NaN | 7442823 |
+
+
 Steps Followed:
 
 1. Explanatory Data Analysis and Feature Engineering
